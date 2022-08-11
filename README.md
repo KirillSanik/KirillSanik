@@ -2,7 +2,7 @@
 Student of bachelor computer science at ITMO University
 
 ## Skills
-- C/C++
+- C++
 - Java
 - Swift
 
