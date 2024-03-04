@@ -3,8 +3,8 @@ Student of bachelor computer science at ITMO University
 
 ## Skills
 - C++
+- GoLang
 - Java
-- Swift
 
 ## Contacts
 - [Telegram](https://t.me/Kirill256)
