@@ -7,7 +7,7 @@ Student of bachelor computer science at ITMO University
 - Java
 
 ## Contacts
-- [Telegram](https://t.me/Kirill256)
+- [Telegram](https://t.me/KirillSanik)
 - sankir330@gmail.com
 
 
